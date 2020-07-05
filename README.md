@@ -63,9 +63,11 @@ Wix의 단점은 Wix에서 예약 기능을 추가하기 위해서는 유료 서
 
 #### 서비스 동작화면
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/EBM2ZLhK7lU" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+```
+첨부파일의 Booker시연영상을 시청하시거나 아래의 링크로 시청부탁 드리겠습니다.
+```
 
-
+https://www.youtube.com/embed/EBM2ZLhK7lU
 
 #### 서비스 아키텍쳐
 
