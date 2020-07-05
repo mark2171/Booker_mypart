@@ -63,9 +63,7 @@ Wix의 단점은 Wix에서 예약 기능을 추가하기 위해서는 유료 서
 
 #### 서비스 동작화면
 
-```
-깃 저장소에 올라가있는 Booker시연연상을 참고 부탁드리겠습니다.
-```
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EBM2ZLhK7lU" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 
 
@@ -95,8 +93,12 @@ Booker 서비스는 사업자 전용 페이지와 사용자 전용 페이지,
   * 위치기능(카카오API 핀)
   * 간단한 업체 설명
 예약 페이지
-  * 달력(React Calendar API)
+  * 달력(React DatePicker API)
   * 시간(React TimePicker)
+
+사업자 페이지
+  * 우편번호 등록(카카오API postcode)
+  * Spring Template
  
 사용자 백앤드
 
