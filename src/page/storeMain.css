@@ -58,12 +58,12 @@
     margin-left: 3%;
      /* background-image: url('./store/봄1.jpg'); */
      border: 1px solid#d6d6d6;
-      background-attachment: 
-      fixed; background-size:
-       cover; -moz-background-size: 
-       cover; -webkit-background-size:
-        cover; background-repeat:
-         no-repeat; background-position: top center;
+      background-attachment: fixed; 
+      background-size:cover; 
+       -moz-background-size: cover; 
+       -webkit-background-size: cover; 
+        background-repeat: no-repeat; 
+         background-position: top center;
         }
 #parallax-world-of-ugg .parallax-two {padding-top:200px;
     padding-bottom:200px; 
@@ -72,7 +72,7 @@
      width: 94%;
      margin-left: 3%;
       /* background-image: url('./store/봄2.jpg'); */
-             background-attachment: fixed;
+        background-attachment: fixed;
         background-size: cover;
          -moz-background-size: cover; 
          -webkit-background-size: cover;

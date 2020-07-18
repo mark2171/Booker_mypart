@@ -49,7 +49,7 @@ componentDidMount() {
 }
 
 callApi = () => {
-  fetch('http://52.79.100.159:8081/api/store_list')
+  fetch('http://52.78.195.81:8080/api/store_list')
   .then(response => response.json())
   .then(body => {
       this.setState({ 
